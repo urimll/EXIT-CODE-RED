@@ -1,0 +1,54 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+.vs/
+.vscode/
+.idea/
+crashlytics-build.properties
+
+# Unity crash recovery scenes
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# Third-party assets (Asset Store / external) - import them yourself
+/Assets/Assets/
+/Assets/Assets.meta
+/Assets/VR_Bire_Bottle/
+/Assets/VR_Bire_Bottle.meta
+/Assets/JsonDotNet/
+/Assets/JsonDotNet.meta
+/Assets/Font/
+/Assets/Font.meta
+
+# Re-importable from Unity packages
+/Assets/Samples/
+/Assets/Samples.meta
+/Assets/TextMesh Pro/
+/Assets/TextMesh Pro.meta
+/Assets/VRTemplateAssets/
+/Assets/VRTemplateAssets.meta
+
+# Over GitHub's 100MB file limit / duplicated embedded textures
+/Assets/Models/school2.fbx
+/Assets/Models/school2.fbx.meta
+/Assets/Models/school2.fbm/
+/Assets/Models/school2.fbm.meta
+
+# OS
+.DS_Store
+Thumbs.db
