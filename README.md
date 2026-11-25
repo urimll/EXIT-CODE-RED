@@ -1,4 +1,4 @@
-# 🔥 EXIT CODE : RED
+# EXIT CODE : RED
 
 **학교 건물을 1:1로 옮겨 온 VR 화재 대피 시뮬레이션**
 
