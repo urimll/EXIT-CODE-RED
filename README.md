@@ -5,7 +5,7 @@
 동양미래대학교 3호관을 Blender로 똑같이 모델링한 디지털 트윈 공간에서, Meta Quest 3를 쓰고
 불이 난 학교를 직접 빠져나오는 체험형 안전 교육 콘텐츠예요.
 
-> 2025 시스템분석설계(종합설계) · 팀 **HOT ESC** (4조) · 2025.12
+> 팀 **HOT ESC** · 2025.12
 
 ![Unity](https://img.shields.io/badge/Unity_6-222222?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
